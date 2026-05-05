@@ -81,3 +81,4 @@ For bugs, feature requests, and other inquiries related to this example, please 
 
 ### Developer Support
 The 0x developer support team is available to quickly answer your technical questions. Contact the [support team](https://0x.org/docs/introduction/community#contact-support) either through the "Intercom messenger" in the bottom right corner throughout the [0x.org](https://0x.org/).
+
